@@ -1,0 +1,6 @@
+token          = "rz7-vIA--BJz7gKLXFVhEJU3vHUU6DkzKT3eto0Q77gc2"
+subnetid       = "subnet-0f8ff994c9c2372af"
+security_group = "sg-07f5fe497f076667f"
+region         = "us-east-2"
+account        = "account-r6uiTvI8"
+vpcid          = "vpc-011725f00614b99e1"
