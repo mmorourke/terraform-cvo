@@ -18,5 +18,5 @@ resource "netapp-cloudmanager_cvo_aws" "cvo-aws" {
               tag_value = "PCS_MikeO"
             }
   svm_password = "Tucker10"
-  client_id = "UmdmTED7CEayqXSwRE9coEdJgnWFf2AX"
+  client_id = "UmdmTED7CEayxxxxxxxxxxxxxxFf2AX"
 }
